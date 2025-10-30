@@ -1,0 +1,21 @@
+# Node
+node_modules
+.env
+npm-debug.log
+.DS_Store
+
+# Prisma
+prisma/dev.db
+prisma/migrations/
+
+# Logs
+logs
+*.log
+
+# Coverage / Tests
+coverage
+reports
+
+# IDE
+.vscode
+.idea
